@@ -42,7 +42,7 @@ export default function Digital() {
         </div>
         <div className="flex flex-col lg:flex-row gap-12 md:gap-24 w-3/4 mx-auto">
           <Bottle />
-          <p className="lg:w-11/12 text-center md:text-left text-lg md:text-3xl font-light self-center">{`Did you know that Mobil 1 Supercar 0W-40 is the first and only dexos-approved motor oil developed specifically for Corvette? The technology that helped produce every Corvette Racing win ends up in a motor oil that guarantees Corvette power and precision. `}</p>
+          <p className="lg:w-11/12 text-center md:text-left text-lg md:text-3xl font-light self-center">{`Let's bring it back. This Toyota Stout looks modern, but its motivation is nothing but a throwback. Powered by a custom-built 3S-GTE, and protected by Mobil 1 Racing 0W-50, Ryan Tuerck's Toyota Stout heritage project is all business up front, and a party in the back.`}</p>
         </div>
         <p className="text-center text-sm text-gray-400 mt-4">
           *Mobil 1 bottle custom label not found elsewhere.
@@ -51,7 +51,7 @@ export default function Digital() {
           <h2 className="text-4xl font-bold text-center mb-12">
             Sign up, stay tuned
           </h2>
-          <Form formId="127" />
+          <Form formId="132" />
         </div>
       </div>
     </div>
