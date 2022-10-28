@@ -4,7 +4,7 @@ export default function Wallpapers() {
   return (
     <div className="max-w-4xl mx-auto text-center my-6 h-screen">
       <Head>
-        <title>Rosie - Wallpapers - SEMA 2022</title>
+        <title>Stout - Wallpapers - SEMA 2022</title>
       </Head>
       <h1 className="text-gray-900 mb-8 text-4xl">Download your wallpaper</h1>
       <img src="/photos/wallpaper.jpg" alt="Rosie Wallpaper" />
